@@ -41,6 +41,7 @@ footer {
     height: 100%;
     background-size: cover;
     overflow: hidden;
+    padding-bottom: -90px;
 }
 
 .jumbotron_text {
