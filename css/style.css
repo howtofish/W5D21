@@ -3,6 +3,14 @@ p {
 	padding: 20px;
 }
 
+footer {
+	text-align: center;
+	background-color: #70C8BA;
+	color: white;
+	font-weight: bold;
+	margin: -20px;
+}
+
 #aboutme {
 	background-color: #70C8BA;
 }
@@ -13,6 +21,7 @@ p {
 
 #contactme {
 	background-color: #E9AC4F;
+	padding-bottom: 40px;
 }
 
 #profilepic {
@@ -46,4 +55,12 @@ p {
 
 .input {
 	width: 100%;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
 }
