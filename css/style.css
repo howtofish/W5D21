@@ -1,0 +1,49 @@
+p {
+	margin: 10px;
+	padding: 20px;
+}
+
+#aboutme {
+	background-color: #70C8BA;
+}
+
+#portfolio {
+	background-color: #5E56D7;
+}
+
+#contactme {
+	background-color: #E9AC4F;
+}
+
+#profilepic {
+	border: 3px solid white;
+	margin-top: 30px;
+}
+
+.navbar {
+	font-weight: bold;
+	background-color: #5E56D7;
+}
+
+.jumbotron {
+    position: relative;
+    background: url("../images/chi_bean.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.jumbotron_text {
+	background-color: rgba(112, 200, 186, .75);
+	color: white;
+	padding: 100px;
+}
+
+.thumbnail {
+	margin: 30px;
+}
+
+.input {
+	width: 100%;
+}
